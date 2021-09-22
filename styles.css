@@ -33,6 +33,16 @@ body {
   font-size: 37.5px;
 }
 
+@media screen and (max-width: 700px) {
+  .grid__text-1 {
+    font-size: 40px;
+  }
+
+  .grid__text-2 {
+    font-size: 21.5px;
+  }
+}
+
 .grid__image {
   height: 70px;
   margin-bottom: 15px;
